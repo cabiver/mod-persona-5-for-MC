@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "persona",
+  "version": "0.0.1",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "frist mod for persona",
+  "description": "is there something better than joker?",
   "authors": [
-    "Me!"
+    "cabiver01 - (carlos vergel)"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "dont have",
+    "sources": "https://github.com/cabiver/mod-persona-5-for-MC"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/modid/icon.jpg",
 
   "environment": "*",
   "entrypoints": {
